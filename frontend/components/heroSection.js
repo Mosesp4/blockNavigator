@@ -12,7 +12,7 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
-import Chart from "../public/assets/Chart.png";
+import Chart from "../public/assets/chart.png";
 
 export default function HeroSection() {
     const [showResult, setShowResult] = useState(true);
